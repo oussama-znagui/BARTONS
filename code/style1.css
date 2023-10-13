@@ -691,12 +691,16 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
 .cont{
     background-color: #FFFADA !important;
     border-radius: 2em !important;
-   
-}
-.cont a{
     color :#1A1A1A !important;
     font-size: 1.4em !important;
+    padding: 0.5em 1.5em;
+    text-decoration: none;
+    margin-top: 2em;
+    font-weight: 600;
+    font-size: 0.5em;
 }
+   
+
 
 .cntform{
     height: 100%;
